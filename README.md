@@ -1,6 +1,6 @@
 ### ¡Hola! soy Fátima 👋
 
-![me](https://user-images.githubusercontent.com/98347096/219447490-b0555a4f-0d19-440f-8d90-6006ae4c3bf1.jpg)
+<!--![me](https://user-images.githubusercontent.com/98347096/219447490-b0555a4f-0d19-440f-8d90-6006ae4c3bf1.jpg) -->
 
 
 FullStack web Developer, soy autodidacta, tengo una gran capacidad de adaptabilidad, mi intención es ganar nuevas experiencias para aportar valor a futuros proyectos
