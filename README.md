@@ -7,6 +7,7 @@
 en los que me encuentre. Me interesa mucho la conexión que puedo crear entre las artes y la tecnología.
 
 Linkedin: www.linkedin.com/in/fatima-pablete
+
 Gmail: pabletefatima9@gmail.com
 
 
