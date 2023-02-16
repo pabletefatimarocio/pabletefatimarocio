@@ -6,8 +6,6 @@
 🐱‍🚀FullStack web Developer, soy autodidacta, tengo una gran capacidad de adaptabilidad, mi intención es ganar nuevas experiencias para aportar valor a futuros proyectos
 en los que me encuentre. Me interesa mucho la conexión que puedo crear entre las artes y la tecnología.
 
-Linkedin: www.linkedin.com/in/fatima-pablete
-
 Gmail: pabletefatima9@gmail.com
 
 
