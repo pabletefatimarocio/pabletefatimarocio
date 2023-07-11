@@ -3,8 +3,15 @@
 <!--![me](https://user-images.githubusercontent.com/98347096/219447490-b0555a4f-0d19-440f-8d90-6006ae4c3bf1.jpg) -->
 ![me](https://user-images.githubusercontent.com/98347096/219450099-122f3442-cca6-4dff-956f-514616e2ee8b.gif)
 
-🐱‍🚀FullStack web Developer, soy autodidacta, tengo una gran capacidad de adaptabilidad, mi intención es ganar nuevas experiencias para aportar valor a futuros proyectos
-en los que me encuentre. Me interesa mucho la conexión que puedo crear entre las artes y la tecnología.
+Nací en San Miguel de Tucumán, Argentina. Soy fullstack web developer y me siento muy afortunada de haber encontrado mi pasión y convertirla en mi trabajo.
+
+Mi camino comenzó en 2021, cuando empecé a realizar pequeños proyectos y a practicar intensamente. Más adelante, tuve la oportunidad de ingresar a un bootcamp donde enfrenté diversos desafíos que contribuyeron a mejorar mis habilidades técnicas y blandas.
+
+Desde mi infancia, he tenido un gran interés por las artes. Soy dibujante y actualmente es mi pasatiempo favorito. Uno de mis objetivos personales es combinar mis dos pasiones: la tecnología y el arte.🪷
+
+Me encanta aprender algo nuevo cada día. El arte me ha enseñado la disciplina, mientras que la tecnología ha desarrollado mi pensamiento analítico y mis habilidades para utilizar herramientas de manera efectiva.
+
+
 
 Gmail: pabletefatima9@gmail.com
 
