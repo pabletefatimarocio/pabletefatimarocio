@@ -1,7 +1,7 @@
 ### Hola👋
 
 <!--![me](https://user-images.githubusercontent.com/98347096/219447490-b0555a4f-0d19-440f-8d90-6006ae4c3bf1.jpg) -->
-![me](https://user-images.githubusercontent.com/98347096/219450099-122f3442-cca6-4dff-956f-514616e2ee8b.gif)
+   ![me](https://user-images.githubusercontent.com/98347096/219450099-122f3442-cca6-4dff-956f-514616e2ee8b.gif)
 
 Nací en San Miguel de Tucumán, Argentina. Soy fullstack web developer y me siento muy afortunada de haber encontrado mi pasión y convertirla en mi trabajo.
 
