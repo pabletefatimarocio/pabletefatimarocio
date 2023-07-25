@@ -15,7 +15,7 @@ Desde mi infancia, he tenido un gran interés por las artes. Soy dibujante y act
 
 Me encanta aprender algo nuevo cada día. El arte me ha enseñado la disciplina, mientras que la tecnología ha desarrollado mi pensamiento analítico y mis habilidades para utilizar herramientas de manera efectiva.
 
-![GitHub Readme Streak Stats]([URL_GENERADA](https://github-readme-stats.vercel.app/api?username=pabletefatimarocio)](https://github.com/anuraghazra/github-readme-stats))
+![GitHub Readme Streak Stats]([URL_GENERADA](https://github-readme-stats.vercel.app/api?username=pabletefatimarocio)](https://github.com/pabletefatimarocio))
 
 
 
