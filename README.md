@@ -18,7 +18,7 @@ Me encanta aprender algo nuevo cada día. El arte me ha enseñado la disciplina,
 
 
 
-![GitHub Readme Streak Stats]([URL_GENERADA](https://github-readme-stats.vercel.app/apipabletefatimarocio=anuraghazra)](https://github.com/anuraghazra/github-readme-stats))
+![GitHub Readme Streak Stats]([URL_GENERADA](https://github-readme-stats.vercel.app/api[pabletefatimarocio](https://github.com/pabletefatimarocio)=anuraghazra)](https://github.com/anuraghazra/github-readme-stats))
 
 
 Gmail: pabletefatima9@gmail.com
