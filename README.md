@@ -1,5 +1,5 @@
 ### Hola👋
-![![pngwing-com.png](https://i.postimg.cc/FKCh1tVF/pngwing-com.png)](https://postimg.cc/rd4BYPH7)
+![pngwing-com.png](https://i.postimg.cc/FKCh1tVF/pngwing-com.png)](https://postimg.cc/rd4BYPH7)
 <!--<p align="center">
   <img src="https://i.postimg.cc/TPbJ3SQf/programadoras.jpg" alt="me">
 </p>-->
