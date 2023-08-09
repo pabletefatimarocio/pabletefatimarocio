@@ -25,7 +25,7 @@ Me encanta aprender algo nuevo cada día. El arte me ha enseñado la disciplina,
 
 
 
-Gmail: pabletefatima9@gmail.com 
+
 
 
 
