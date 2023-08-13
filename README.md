@@ -22,7 +22,7 @@ Me encanta aprender algo nuevo cada día. El arte me ha enseñado la disciplina,
 
   ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pabletefatimarocio&theme=radical)
 
-
+Gmail: pabletefatima9@gmail.com
 
 
 
