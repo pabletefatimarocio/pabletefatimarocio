@@ -18,7 +18,7 @@ Desde mi infancia, he tenido un gran interés por las artes. Soy dibujante y act
 
 Me encanta aprender algo nuevo cada día. El arte me ha enseñado la disciplina, mientras que la tecnología ha desarrollado mi pensamiento analítico y mis habilidades para utilizar herramientas de manera efectiva.
 
-
+gmail: pabletefatima9@gmail.com
  
 
 
