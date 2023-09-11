@@ -10,13 +10,7 @@
 
 ### Hola👋 
 
-Nací en San Miguel de Tucumán, Argentina. Soy fullstack web developer y me siento muy afortunada de haber encontrado mi pasión y convertirla en mi trabajo.
 
-Mi camino comenzó en 2021, cuando empecé a realizar pequeños proyectos y a practicar intensamente. Más adelante, tuve la oportunidad de ingresar a un bootcamp donde enfrenté diversos desafíos que contribuyeron a mejorar mis habilidades técnicas y blandas.
-
-Desde mi infancia, he tenido un gran interés por las artes. Soy dibujante y actualmente es mi pasatiempo favorito. Uno de mis objetivos personales es combinar mis dos pasiones: la tecnología y el arte.
-
-Me encanta aprender algo nuevo cada día. El arte me ha enseñado la disciplina, mientras que la tecnología ha desarrollado mi pensamiento analítico y mis habilidades para utilizar herramientas de manera efectiva.
 
 gmail: pabletefatima9@gmail.com
  
