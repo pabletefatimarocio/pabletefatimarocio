@@ -12,7 +12,6 @@
 
 
 
-gmail: pabletefatima9@gmail.com
  
 
 
