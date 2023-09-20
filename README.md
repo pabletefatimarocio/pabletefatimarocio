@@ -11,7 +11,7 @@
 ### Hello👋 
 
 
-•Gmail: pabletefatima9@gmail.com.
+•Gmail: pabletefatima9@gmail.com
  
 
 
