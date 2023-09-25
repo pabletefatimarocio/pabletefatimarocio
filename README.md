@@ -10,10 +10,6 @@
 
 ### Hello👋 
 
-Gmail: pabletefatima09@gmail.com
-
- 
-
 
  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pabletefatimarocio)
 
