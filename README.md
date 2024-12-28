@@ -1,5 +1,5 @@
 
-![pngwing-com.png](https://i.postimg.cc/rmCLMHjg/1pngwing.png)
+
 <!--<p align="center">
   <img src="https://i.postimg.cc/TPbJ3SQf/programadoras.jpg" alt="me">
 </p>-->
