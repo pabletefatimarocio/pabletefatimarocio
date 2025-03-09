@@ -1,4 +1,4 @@
-.
+
 
 <!--<p align="center">
   <img src="https://i.postimg.cc/TPbJ3SQf/programadoras.jpg" alt="me">
@@ -8,10 +8,12 @@
 <!--  [![programadoras.jpg](https://i.postimg.cc/TPbJ3SQf/programadoras.jpg)](https://postimg.cc/WD2k95QH)-->
 
 
+## My GitHub Stats🌱 
 
+ ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pabletefatimarocio&layout=compact&theme=radical)
+## My Top Languages🌱
 
- ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pabletefatimarocio)
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pabletefatimarocio&layout=compact&theme=radical)
 
 
 
