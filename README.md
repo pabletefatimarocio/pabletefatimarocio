@@ -1,4 +1,4 @@
-## Saludos 👋.
+## Saludos 👋
 
 [![medieval.png](https://i.postimg.cc/W3QmtDTn/medieval.png)](https://postimg.cc/JD5H2zyD)
 
